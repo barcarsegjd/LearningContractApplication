@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_contract_1"
+            android:checked="true"
+            android:title="1. Barcarse, Glexainth John D." />
+        <item
+            android:id="@+id/nav_contract_2"
+            android:title="2. Agaloos, Josh Jovian L." />
+        <item
+            android:id="@+id/nav_contract_3"
+            android:title="3. Omadlao, Zanya Reubenne D." />
+        <item
+            android:id="@+id/nav_contract_4"
+            android:title="4. Pacio, Ian Russel B." />
+    </group>
+</menu>
