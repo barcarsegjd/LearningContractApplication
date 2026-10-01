@@ -19,9 +19,9 @@ An Android application developed for CC17 (Mobile Application Development) that 
 | Name | Program & Section |
 | :--- | :--- |
 | **Glexainth John D. Barcarse** | BSCS CITCS 3E - Group B |
-| **Josh Jovian L. Agaloos** | CC17 3E - Group B |
+| **Josh Jovian L. Agaloos** | BSCS CITCS 3E - Group B |
 | **Zanya Reubenne D. Omadlao** | BSCS CITCS 3E - Group B |
-| **Ian Russel B. Pacio** | CC17-3E |
+| **Ian Russel B. Pacio** | BSIT CITCS 3E - Group B |
 
 ---
 
